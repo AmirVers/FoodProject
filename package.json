@@ -1,0 +1,26 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirVers/FoodProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmirVers/FoodProject/issues"
+  },
+  "homepage": "https://github.com/AmirVers/FoodProject#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
